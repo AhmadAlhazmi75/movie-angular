@@ -1,0 +1,46 @@
+mat-card{
+    max-width: 600px;
+    margin: 2em auto;
+    text-align: center;
+    max-height: 600px;
+
+}
+.loginpageform{
+    color: #ffff;
+    border: 2px solid #c08f89;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.header{
+
+    text-align: center;
+}
+
+.full-width{
+
+    width: 80%;
+
+}
+
+.forgot-password{
+
+    padding-left: 0px;
+}
+
+.email-input{
+
+    padding-top: 10px;
+}
+
+.aLink{
+
+    float: right;
+    padding-right: 60px;
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: #E51904;
+    color: white;
+}
